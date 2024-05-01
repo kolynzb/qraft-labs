@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0c47512710049c85",
@@ -161,12 +161,12 @@
   },
   "active": "97c4d514506f8488",
   "lastOpenFiles": [
+    "README.md",
+    "research/project-management-for-startups.mdx",
     "_private/_templates/Frontmatter.md",
     "research/project-management-for-startups.md",
-    "research/project-management-for-startups.mdx",
     "_private",
     "_private/_templates",
-    "README.md",
     "Untitled.mdx",
     "docs",
     "research",
