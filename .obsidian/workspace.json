@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PM for Start-ups.md",
+                "file": "research/project-management-for-startups.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PM for Start-ups.md",
+                "file": "research/project-management-for-startups.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PM for Start-ups.md",
+                "file": "research/project-management-for-startups.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PM for Start-ups.md"
+                "file": "research/project-management-for-startups.mdx"
               }
             }
           }
@@ -155,13 +155,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "edit-mdx:New .mdx file": false
     }
   },
   "active": "97c4d514506f8488",
   "lastOpenFiles": [
     "_private/_templates/Frontmatter.md",
-    "PM for Start-ups.md",
+    "research/project-management-for-startups.md",
+    "research/project-management-for-startups.mdx",
     "_private",
     "_private/_templates",
     "README.md",
